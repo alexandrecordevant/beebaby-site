@@ -1,0 +1,3 @@
+Deposer ici la police des titres (licence web requise) :
+  GrilledCheeseBTN.woff2  (et/ou GrilledCheeseBTN.woff)
+Le site l'utilise automatiquement. Sans ce fichier, la police Chewy (gratuite, tres proche) est utilisee.
